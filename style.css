@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.TEST2{
+    text-align: center;
+}
+
+.TEST3{
+    display: flex;
+    text-align: center;
+}
+
+.TEST4{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.test4{
+    text-align: center;
+}

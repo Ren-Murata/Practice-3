@@ -12,8 +12,22 @@
 .TEST4 {
     display: flex;
     justify-content: flex-end;
+    width: 80%;
 }
 
 .test4 {
+    text-align: center;
+}
+
+.test4 img{
+    width: 100%;
+}
+
+.TEST5 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.test5{
     text-align: center;
 }

@@ -1,7 +1,15 @@
 @charset "UTF-8";
 
+.TEST1 img{
+    width: 25%;
+}
+
 .TEST2 {
     text-align: center;
+}
+
+.TEST2 img{
+    width: 25%;
 }
 
 .TEST3 {
@@ -9,19 +17,33 @@
     justify-content: center;
 }
 
+.test3{
+    width: 25%;
+    margin-left: 2%;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+
 .TEST4 {
     display: flex;
     justify-content: flex-end;
-    width: 80%;
+    text-align: center;
 }
 
 .test4 {
-    text-align: center;
+    width: 25%;
+    margin-left:2%;
 }
 
 .test4 img{
     width: 100%;
 }
+
+
 
 .TEST5 {
     display: flex;
@@ -29,5 +51,6 @@
 }
 
 .test5{
-    text-align: center;
+    width: 25%;
+    margin: 0;
 }
